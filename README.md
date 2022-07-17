@@ -1,0 +1,1 @@
+These projects were the programmed in Artificial Intelligent course in my undergraduate years. I took AI course for two semester (AI Ⅰ and AI Ⅱ), and it include three parts, which are classical AI algorithm, machine learning, and deep learning.
