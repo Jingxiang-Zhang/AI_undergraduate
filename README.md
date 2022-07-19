@@ -12,7 +12,9 @@ This project was programmed by C#.
   <img src="https://github.com/Jingxiang-Zhang/AI_undergraduate/blob/main/img/contrast.png">
 </div>
 
-![A Star Search Algorithm](:UN_3_AI/A_star.gif){:data-align="center"}
+<div align="center">
+  <img src="https://github.com/Jingxiang-Zhang/AI_undergraduate/blob/main/img/A_star.gif">
+</div>
 
 #### ACO and PWO Algorithms
 
